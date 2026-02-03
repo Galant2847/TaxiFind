@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using TaxiFind.algorithms;
+using TaxiFind.models;
 
-Console.WriteLine("Hello, World!");
+namespace TaxiFind;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        
+    }
+}

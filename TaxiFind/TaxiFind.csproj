@@ -8,7 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="src\algorithms\" />
       <Folder Include="tests\benchmarks\" />
       <Folder Include="tests\NUnit\" />
     </ItemGroup>
