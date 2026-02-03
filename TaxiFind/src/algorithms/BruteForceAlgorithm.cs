@@ -4,7 +4,7 @@ namespace TaxiFind.algorithms;
 
 public class BruteForceAlgorithm
 {
-    public List<Driver> FindNearestDriver(Order order, Driver?[,] map, int driversCount)
+    public List<Driver> FindNearestDrivers(Order order, Driver?[,] map, int driversCount)
     {
         var allDrivers = new List<Driver>();
         int rows = map.GetLength(0);
