@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <Folder Include="src\algorithms\" />
-      <Folder Include="src\models\" />
       <Folder Include="tests\benchmarks\" />
       <Folder Include="tests\NUnit\" />
     </ItemGroup>
